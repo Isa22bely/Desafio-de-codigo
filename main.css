@@ -1,0 +1,66 @@
+.banner{
+    background-color: aliceblue;
+    background:url(/assets/images/banner.png);
+}
+
+header h1{
+    text-transform: uppercase;
+    color:  #33A8DB;
+    ;
+}
+
+header p{
+    color: #ffff;
+}
+
+header button{
+    color: #33A8DB;
+    border-color: #33A8DB;
+    border-style: solid;
+    border-width: medium;
+}
+
+main h2{
+    text-transform: uppercase;
+    color:  #33A8DB;
+}
+
+main p{
+    color: #ffff;
+}
+
+div{
+    min-width: 70px;
+    min-height: 50px;
+}
+
+div, .modulo-list {
+    min-width: 80px;
+    min-height: 50px;
+    color: #ffff;
+
+}
+
+.modulo-list{
+    border-style: solid;
+    border-color: #33A8DB;
+}
+
+.modulo{
+    border-style: outset;
+    border-color: #33A8DB;
+}
+
+.modulo, span{
+    color: #33A8DB;
+}
+
+
+
+ #transform-world{
+    min-width: 100px;
+    min-height: 500px;
+    background-image: url(assets/images/woman-code.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
